@@ -1,3 +1,5 @@
+/* Structure Operation est une operation conserne la comptabilite
+/* Il faud Qu on donne une structure a la table compte
 
 typedef struct Operation{
     int ID;                 // Identifiant unique de l'opération
@@ -5,3 +7,5 @@ typedef struct Operation{
     long double Credit;     // Montant crédité
     long double Debit;      // Montant débité
 } Operation;
+
+
