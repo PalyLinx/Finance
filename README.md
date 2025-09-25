@@ -11,3 +11,5 @@ typedef struct {
     double Credit;          // Montant crédité
     double Debit;           // Montant débité
 } Operation;
+
+
