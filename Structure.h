@@ -8,4 +8,4 @@ typedef struct Operation{
     long double Debit;      // Montant débité
 } Operation;
 
-
+Int Main()
